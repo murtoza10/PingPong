@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1343398730 source:d:\pong pong\game.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343391255 source:d:\pong pong\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+
+1343392178 source:d:\pong pong\squish.cpp
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1343387270 source:d:\pong pong\intro.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343391887 source:d:\pong pong\score and exit.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343418253 source:c:\users\pavel\desktop\projecct image\cleardevice flicker\intro.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343405087 source:c:\users\pavel\desktop\projecct image\cleardevice flicker\score and exit.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343392178 source:c:\users\pavel\desktop\projecct image\cleardevice flicker\squish.cpp
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1343417470 source:c:\users\pavel\desktop\projecct image\cleardevice flicker\game.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343410305 source:c:\users\pavel\desktop\projecct image\cleardevice flicker\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+
+1343674799 source:c:\users\pavel\desktop\projecct image\test version 1\intro.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343405087 source:c:\users\pavel\desktop\projecct image\test version 1\score and exit.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343392178 source:c:\users\pavel\desktop\projecct image\test version 1\squish.cpp
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1343659102 source:c:\users\pavel\desktop\projecct image\test version 1\game.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343674846 source:c:\users\pavel\desktop\projecct image\test version 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+
+1343808437 source:c:\users\pavel\desktop\project100\test version 1_2\intro.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343804664 source:c:\users\pavel\desktop\project100\test version 1_2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+
+1343405087 source:c:\users\pavel\desktop\project100\test version 1_2\score and exit.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343392178 source:c:\users\pavel\desktop\project100\test version 1_2\squish.cpp
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1343659102 source:c:\users\pavel\desktop\project100\test version 1_2\game.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343808437 source:c:\users\user\downloads\project100(1)\project100\test version 1_2\intro.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1344762515 source:c:\users\user\downloads\project100(1)\project100\test version 1_2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+
+1343405087 source:c:\users\user\downloads\project100(1)\project100\test version 1_2\score and exit.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
+1343392178 source:c:\users\user\downloads\project100(1)\project100\test version 1_2\squish.cpp
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1344094994 source:c:\users\user\downloads\project100(1)\project100\test version 1_2\game.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<string.h>
+	<string>
+	<Windows.h>
+	<MMSystem.h>
+
